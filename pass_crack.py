@@ -14,7 +14,7 @@ def check_md5(input):
 
 while True:
     #  password = input("Enter the hash you would like to crack: ")
-    test_password = LeesEpicPasswordThatIsVerySecure 
+    test_password = LeesFakePassword 
     password = check_md5(test_password)
     guess = generate_random_string(len(password))
     guesshash = check_md5(guess)
