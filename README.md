@@ -1,2 +1,1 @@
-# password_cracker
-The best password cracking tool ever created! Can crack ANY password no matter what!
+Look, I'm the best hacker ever, and my programs are so complex that you probably won't be able to understand them anyway, so why don't you just close this page and save us both some time. 
